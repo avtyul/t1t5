@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pluginator</string>
+    <string name="action_settings">Settings</string>
+    <string name="PLUGINS_STORAGE">plugins_storage</string>
+    <string name="FEATURES_STORAGE">features_storage</string>
+    <string name="deleteButtonText">Delete</string>
+</resources>
